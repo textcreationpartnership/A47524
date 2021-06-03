@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An assize-sermon preach'd at St. Edmunds-Bury in Suffolk March the 23rd, 1696/7 before the Right Honourable Sir John Holt, Knight, lord chief justice of the King's Bench, and John Packe, Esq., high sheriff for the county / by Thomas Knaggs ...</title>
+            <author>Knaggs, Thomas, 1660 or 1-1724.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47524</idno><idno type="EEBO-CITATION">17156287</idno>
+  <idno type="VID">105986</idno>
+  <idno type="EEBO-PROQUEST">2240851897</idno>
+  
+            <idno type="STC">Wing K662A</idno>
+            <idno type="STC">ESTC R37960</idno>
+            <idno type="OCLC">17156287</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105986)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1618:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An assize-sermon preach'd at St. Edmunds-Bury in Suffolk March the 23rd, 1696/7 before the Right Honourable Sir John Holt, Knight, lord chief justice of the King's Bench, and John Packe, Esq., high sheriff for the county / by Thomas Knaggs ...</title>
+                  <author>Knaggs, Thomas, 1660 or 1-1724.</author>
+               </titleStmt>
+               <extent>33 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonas Luntley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Acts XXIV, 16 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105986:1"/>
+            <p>AN Assize-Sermon, Preach'd at St. <hi>Edmunds-Bury</hi> in <hi>Suffolk, March</hi> the 23d, 1696/7. Before the Right Honourable Sir <hi>JOHN HOLT,</hi> Knight, Lord Chief Justice of the King's Bench; AND <hi>JOHN PACKE</hi> Esq; High Sheriff for the County.</p>
+            <p>By <hi>Thomas Knaggs,</hi> M.A. and Chaplain to the Right Honourable FORD Earl of <hi>Tankerville.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Jonas Luntley</hi> at the three Bibles in Little <hi>Lin<g ref="char:EOLhyphen"/>colns-Inn-fields,</hi> near the Play-house. MDCXCVII.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:105986:2"/>
+            <pb facs="tcp:105986:2"/>
+            <p>Dr. <hi>WAUGH</hi>'s SERMON AT THE CONSECRATION OF THE Lord Bishop of St. <hi>DAVID</hi>'s.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:105986:3"/>
+            <pb facs="tcp:105986:3"/>
+            <head>To the Right Honourable Sir JOHN HOLT K<seg rend="sup">t</seg>. Lord Chief Justice of His Majesty's Court of King's Bench; And one of his Majesty's Most Honourable Privy Council.</head>
+            <opener>
+               <salute>May it please your Lordship;</salute>
+            </opener>
+            <p>AS I had the Honour to preach this Sermon before you, so I have your Lordship's Command for the print<g ref="char:EOLhyphen"/>ing it; in Obedience to which. I have ex<g ref="char:EOLhyphen"/>posed it to the Publick. I shall not in the least be troubled at any Censure I may bring upon my self by its Publication: Your Lordship's Approbation alone is enough to shield me without any Vindication or Apo<g ref="char:EOLhyphen"/>logy. It was for the Sake of the Com<g ref="char:EOLhyphen"/>mon Good I penn'd it. For alas! We are fallen into such deplorable times, that <hi>Con<g ref="char:EOLhyphen"/>science</hi>
+               <pb facs="tcp:105986:4"/>is almost banish'd out of the World. Such an Age of Licentiousness and Pro<g ref="char:EOLhyphen"/>faneness we live in, and therefore never was there more necessity of pressing Mo<g ref="char:EOLhyphen"/>tives to prevail with Men to a Love and Veneration of Truth and common Honesty as now.</p>
+            <p>
+               <hi>My LORD;</hi>
+            </p>
+            <p>All that I shall say of that Excellent Charge of your Lordship's to the Grand Jury, is, that it was enough to perswade and convince any rational Man to stand fast for the Preservation of the Present Govern<g ref="char:EOLhyphen"/>ment, for which you truly deserve the Name of an <hi>Englishman</hi> and a <hi>Protestant.</hi> All such have a particular Value for your Lord<g ref="char:EOLhyphen"/>ship, but none more than</p>
+            <closer>
+               <signed>Your Lordship's most Humble<lb/> and most Obedient Servant,<lb/>
+                  <hi>Tho. Knaggs.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="7" facs="tcp:105986:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACTS XXIV. 16.</hi>
+                  </bibl>
+                  <p>And herein do I exercise my self to have always a Conscience void of Offence towards God, and towards Man.</p>
+               </q>
+            </epigraph>
+            <p>ST. <hi>Paul</hi> having been accused before <hi>Felix</hi> the Governour by <hi>Tertullus</hi> and several o<g ref="char:EOLhyphen"/>thers of the Jews, was by them represent<g ref="char:EOLhyphen"/>ed as a dangerous Person, <hi>a pestilent Fellow, a Mover of Sedition, a great Promoter of the Religion of the Nazarens,</hi> and <hi>a Profaner of the Temple.</hi> These were the hainous Crimes he stood accu<g ref="char:EOLhyphen"/>sed of; but being to answer for himself, before his Judg he declared his Innocency, and that he was not in the least guilty of what they laid to his Charge, and that they were not able to prove the things whereof they accused him, gi<g ref="char:EOLhyphen"/>ving <hi>Felix</hi> a Confession of his Faith: <hi>And have
+<pb n="8" facs="tcp:105986:5"/>Hope towards God, which they themselves also allow, that there shall be a Resurrection of the dead, both of the just and unjust.</hi> This was the Sum of that Apostle's Faith and Hope. <hi>Herein,</hi> i. e. in a real Belief of the Resurrection and the last Judgment, <hi>do I exercise my self to have always a Conscience void of Offence towards God, and towards Man.</hi>
+            </p>
+            <p>In discoursing of which Words I shall con<g ref="char:EOLhyphen"/>sider,
+<list>
+                  <item>I. What Conscience is.</item>
+                  <item>II. Wherein a Conscience void of Offence towards God and towards Man, doth chiefly consist.</item>
+                  <item>III. The Advantages that will accrue by keeping such a Conscience.</item>
+                  <item>IV. Shall lay down several Inducements for the keeping such a Conscience.</item>
+                  <item>
+                     <hi>Lastly,</hi> Shall conclude with some Rules for your Help and Direction herein. An<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</item>
+               </list>
+            </p>
+            <div n="1" type="part">
+               <head>I. What Conscience is.</head>
+               <p>In every Man there is a Soul, and in every Soul a Deputy-Judg, we call the Conscience.
+<pb n="9" facs="tcp:105986:5"/>This <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Faculty by which a Man becomes conscious to himself of all that he hath either done or design'd. This examines, sifts, and tries our Actions. 'Tis a Spy upon them, an exact Notary of whatever we think or act; and 'tis called by St. <hi>Paul</hi> a Co-witness with God, <hi>Rom.</hi> 9.1. Next under God himself, who is the supream Judg, this, as the Almighty's Vice<g ref="char:EOLhyphen"/>gerent, exerciseth a Soveraign Power in every Man's own Breast, calling him to the Bar, and arraigning him; and being the Register, Wit<g ref="char:EOLhyphen"/>ness, and Judg of all his Thoughts, Words, and Actions, sits upon him, and upon Examina<g ref="char:EOLhyphen"/>tion either accuseth, or else excuseth, acquits, or condemns him. This of all other things has the most irresistable Influence upon every Man's Happiness or Misery; for according as Conscience is either for him or against him, so he hath Boldness or Fear in time of Life, and in the Hour of Death. The Horrours that na<g ref="char:EOLhyphen"/>turally arise out of an accusing Conscience, such as Frights and Distraction, Anguish and Despair, Grief and Fear, Lashes and Gripes, as they cruelly vex and torment the Mind; so on the other side, the Delight and Joy, the Plea<g ref="char:EOLhyphen"/>sure
+<pb n="10" facs="tcp:105986:6"/>and Satisfaction, the Peace and Quietness that follow upon the Discharge of an honest and upright one, abide for ever, and accompany both Life and Death with Tranquillity and Rest of Spirit. I come</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. To consider wherein a Conscience void of Offence towards God and towards Man doth chiefly consist. And,</head>
+               <p n="1">1. To keep a Conscience void of Offence to<g ref="char:EOLhyphen"/>wards God, we must with <hi>Zacharie</hi> and <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> be righteous before him, <hi>walking in all the Commandments, and Ordinances of the Lord blameless,</hi> Luke 1.6. Our Piety towards God must be constant. We must be serious in all our Ad<g ref="char:EOLhyphen"/>dresses to him, uniform in our Obedience, and as much as in us lie, endeavour to copy out in our Lives that Holiness, Justice, and Innocency, which in his holy Word he commands.</p>
+               <p n="2">2. To keep a Conscience void of offence towards God, we must love and fear him, walk in his holy Ways, do what he has com<g ref="char:EOLhyphen"/>manded, and abstain from what he has prohi<g ref="char:EOLhyphen"/>bited.</p>
+               <p n="3">3. To keep a Conscience void of Offence to<g ref="char:EOLhyphen"/>wards
+<pb n="11" facs="tcp:105986:6"/>God, we must be free from all Appear<g ref="char:EOLhyphen"/>ances of Hypocrisy and Insincerity, diligent and faithful in our Pursuits of Heaven and Eternity, and live up to the constant and Spiritual Per<g ref="char:EOLhyphen"/>formance of those indispensable Duties.</p>
+               <p>I come to shew wherein the keeping a Consci<g ref="char:EOLhyphen"/>ence void of Offence towards Man, doth chiefly consist, And,</p>
+               <p n="1">1. It consists in being just and honest in all our Dealings, in being innocent and candid in our Conversation with him, charitable, and merciful to him, and to offer no Wrong either to his Name, Goods, or Person.</p>
+               <p n="2">2. He that would keep a Conscience void of Offence towards Man, in his Words and Discour<g ref="char:EOLhyphen"/>ses must speak the Truth in his Heart to him. His Thoughts, Words and Actions must be all of a piece. Who has no by, corrupt, sinister Designs, but walks in the plain and beaten Paths of Righteousness and Integrity.</p>
+               <p n="3">3. He that would keep a Conscience void of Offence towards Man, must in his Dealings with him lay aside all cunning Practices of Guile and Hypocrisy, all secret Arts and base Tricks, and be mov'd to his Duty by fair Means and Ways.
+<pb n="12" facs="tcp:105986:7"/>He that observes these Rules, shall keep a Con<g ref="char:EOLhyphen"/>science void of Offence towards God and to<g ref="char:EOLhyphen"/>wards Man; and at the great Day of Account, when the eternal Retributions shall be adjusted to Men according to their Works, then God will confirm the Sentence of his Conscience, reward him for what he has done, and in the Presence of Men and Angels own him, as a faithful Servant, and bid him enter into the Joy of his Lord.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. I proceed to shew the Advantages that will accrue by keeping such a Conscience.</head>
+               <p>It makes the Heart sincere and upright, sets these Duties of Integrity and Honesty, Righte<g ref="char:EOLhyphen"/>ousness and Justice, close upon the Soul, and is its Counsellor, Guide, and Director. The constant keeping such a Conscience makes good Men, whether in publick or private Stations. The Magistrate being appointed by the great Judg of his Conscience to punish evil Doers, and encourage such as do well; he therefore will not, because he knows 'tis a Violation of his Conscience, either protect the Guilty, or oppress the Innocent. This makes him just
+<pb n="13" facs="tcp:105986:7"/>and impartial in the Discharge of his Trust, al<g ref="char:EOLhyphen"/>ways prevails with him to advance Righteous<g ref="char:EOLhyphen"/>ness and Justice, to deal fairly between Party and Party, and to take care that the poor Man's Cause have as friendly and favourable a hearing as that of the Rich. The keeping a Conscience void of Offence towards God and Man, will make the Judg have no respect of Persons in Judgment, and put him upon nothing but what is for his Esteem and Veneration, his Honour and Reputation.</p>
+               <p>And as the Magistrate in particular, by keeping a Conscience void of Offence towards God and towards Man, has this Advantage by it, that it always prevails with him to do Justice, and to denounce righteous Judgment; so it has the same Influence on Bodies and Societies of Men, and habituates them to the faithful Discharge of that Trust which is reposed in them.</p>
+               <p>The Sense of such a Conscience makes faith<g ref="char:EOLhyphen"/>ful and true Witnesses, upright and unbiass'd Ju<g ref="char:EOLhyphen"/>ries, charitable Plaintiffs and Defendants, and puts Men out of love with vexatious Suits, and the things that make not for Peace. Let us all strive after such a Conscience. Such a one is the
+<pb n="14" facs="tcp:105986:8"/>only wise, great, and secure Man, the truest Po<g ref="char:EOLhyphen"/>litician, and none so safe as he. Those two Phi<g ref="char:EOLhyphen"/>losophers <hi>Plato</hi> and <hi>Aristotle</hi> could tell us that a Man that acts from the Spring of a good Con<g ref="char:EOLhyphen"/>science, is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>like a Die;</hi> cast him which way you will, he still finds a Bottom. Like his God, he is still the same yesterday, to day, and for ever. His first Principle is to have honest Principles, whether in a publick or private Sta<g ref="char:EOLhyphen"/>tion. 'Tis a memorable Story of <hi>Constantius,</hi> who at his first coming to the Empire, command<g ref="char:EOLhyphen"/>ed all his Nobles and Servants to offer Sacrifice unto Idols, threatning to banish all from his Court and Service that should refuse to obey him in that Edict. Many were easily induc'd to dis<g ref="char:EOLhyphen"/>pense with their Consciences; and rather than hazard the Loss of their Places at Court, would content themselves to be of any, or no Religion: But others choosing rather to obey God than Man, would not yield Obedience to so wicked an Edict. The good Emperor retain'd these about him, and banish'd all the others who were so for<g ref="char:EOLhyphen"/>ward to embrace Idolatry, saying, <hi>Quomodo fidem in violatam praestabunt Imperatori, qui Deo sunt perfidi? What Loyalty and Allegiance can there be expected from
+<pb n="15" facs="tcp:105986:8"/>them towards their Soveraign, that were so perfidious to their God?</hi>
+               </p>
+               <p>But tho I have insisted hitherto wherein a Con<g ref="char:EOLhyphen"/>science void of offence towards God and to<g ref="char:EOLhyphen"/>wards Man doth chiefly consist, and shewn the Advantages that will accrue by keeping such a Conscience; yet what I have delivered has not been to countenance the Practices of such Men, who out of a tender Conscience, as they pretend, have pleaded for the most unconscionable Actions. What shall we think of their Consciences, who dare not for their Lives taste Flesh in <hi>Lent,</hi> stand cover'd before the Picture of our <hi>Lady,</hi> or re<g ref="char:EOLhyphen"/>ceive the Eucharist, omitting <hi>Auricular</hi> Confes<g ref="char:EOLhyphen"/>sion; and yet stick not to venture upon the most abominable Treasons, to commit horrid Mur<g ref="char:EOLhyphen"/>ders, to Assassinate Kings, to undermine States, and involve Kingdoms in Blood and Confusion? What shall we say of their Consciences, who have a seeming Zeal for the Church of <hi>England,</hi> and yet take direct Ways and Means for bringing in <hi>Popery, Slavery,</hi> and <hi>Tyranny?</hi> Or what shall we think of their Consciences, who endeavour to make the World sensible of their Love for the common Good, and yet are Enemies to a <hi>Prince</hi>
+                  <pb n="16" facs="tcp:105986:9"/>that has preserv'd their <hi>Liberties</hi> and <hi>Properties,</hi> and by his Courage and Conduct sav'd <hi>Europe?</hi> A <hi>Prince</hi> whom God rais'd up in the day of our distress to work a Deliverance for us, and to ad<g ref="char:EOLhyphen"/>vance the Honour of this Nation to its antient Splendour and Glory. Would some Men but think or consider, they would not be drawn they know not whither, or be so solicitous to compleat the Ruin and Destruction of their Country, and expose it to the Revenge of an in<g ref="char:EOLhyphen"/>cens'd Enemy to our Religion, Laws, and Li<g ref="char:EOLhyphen"/>berties. The old <hi>Romans</hi> were ready to sacrifice their Fortunes for the Safety of their Country, and were neither afraid nor asham'd to die in so glorious a Cause. How then are some <hi>Englishmen</hi> degenerated from antient Worth and Honour, in seeking to betray what the others were so zealous to preserve? This is one of the worst kind of Consciences in the World. A Conscience that strains at a Gnat, and swallows a Camel. A Conscience that has a hot and flaming Zeal for the <hi>Church,</hi> yet at the same time carries on the In<g ref="char:EOLhyphen"/>terest of him who for many Years has been en<g ref="char:EOLhyphen"/>deavouring to establish Popery and Arbitrary Go<g ref="char:EOLhyphen"/>vernment. A <hi>squinting</hi> Conscience that looks one
+<pb n="17" facs="tcp:105986:9"/>way, and sees another. But as much as it looks awry, such are the Consciences of too many, <hi>I speak it to their Shame.</hi> I come,</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. To lay down several Inducements for the keeping a Conscience void of offence to<g ref="char:EOLhyphen"/>wards God and towards Man.</head>
+               <p n="1">1. From that Peace and Tranquillity of Mind that follow upon the keeping such a Conscience. <hi>Solomon</hi> tells us that the <hi>righteous Man's Heart is a continual Feast,</hi> Prov. 15. The Man who carries a clean Conscience about with him, marcheth eve<g ref="char:EOLhyphen"/>ry where with an Head lifted up: his Heart re<g ref="char:EOLhyphen"/>joiceth in an undisturbed Serenity of Mind. Whether he sleepeth or waketh, he has quiet Rest. His Soul being free from all notorious Crimes, he fears no ill Tidings, but is as bold as a Lion. St. <hi>Paul</hi> made so great an Account of the Testi<g ref="char:EOLhyphen"/>mony of a good Conscience, that he call'd it his <hi>Glory.</hi> O the Comfort a good Conscience will afford us while we live, and when we come to die! O the internal Consolation that Soul feels, who has made Piety and Godliness the Scope of all its doings! Such a Conscience chears a Man in Life, and speaks comfortable things to him at his
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:105986:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:105986:10"/>
+                  <pb n="18" facs="tcp:105986:11"/>Death. It is a sure Testimony of a secure Mind here, and eternal Happiness hereafter. Nothing can be conceiv'd more pregnant with Delight and Joy than a peaceful Conscience. There is no Chearfulness like the Effect of that. That is the Man who is establish'd in the Possession of invio<g ref="char:EOLhyphen"/>lable Pleasure and Satisfaction. It was the Coun<g ref="char:EOLhyphen"/>sel of the <hi>Divine</hi> Philosopher, <hi>If thou wouldst live without Fear, live without Offence.</hi> And King <hi>Pto<g ref="char:EOLhyphen"/>lomy</hi> having ask'd one of the Hebrew Interpreters how he might be at rest when he slept, receiv'd this Answer, <hi>Let Piety and righteous Dealing be the Scope of all thy Sayings and Doings; for by applying all thy Discourses and Works to such excellent Ends, whe<g ref="char:EOLhyphen"/>ther thou sleepest or wakest, thou shalt have quiest Rest in regard of thy self.</hi> And as one Inducement for the keeping a Conscience void of offence towards God and Man, is taken from that Peace and Tran<g ref="char:EOLhyphen"/>quillity of Mind that follow upon the keeping such a Conscience: So,</p>
+               <p n="2">2. Another Inducement shall be taken from the Remorses that attend an evil one. That cru<g ref="char:EOLhyphen"/>el Emperor <hi>Caligula</hi> was continually terrify'd and in fear, and never had secure and quiet rest. <hi>Nero</hi> after he had kill'd his Mother, confess'd that whilst
+<pb n="19" facs="tcp:105986:11"/>he slept he was troubled by her, and tormented with Furies as Revengers of that Sin. Thus it was with <hi>Adam</hi> and his Conscience; for when the Lord call'd unto him and said, <hi>Adam, where art thou?</hi> He an<g ref="char:EOLhyphen"/>swered, <hi>I heard thy Voice in the Garden, and was afraid, because I was naked.</hi> But who was it told him he was naked? no other surely but his own Conscience. This remembred him of the Law he had broke, the Penalty of Death he had incur'd thereby, and how he had expos'd himself to God's Displeasure, and therefore hid himself from the Presence of the Lord. I could instance in <hi>Cain, Saul, Judas, Fe<g ref="char:EOLhyphen"/>lix,</hi> and such like, which the Scripture mentions, who had a Worm that gnaw'd their Consciences both day and night. What Creature can be ima<g ref="char:EOLhyphen"/>gin'd more miserable than a Man whose Life is accompanied with the secret Lashes and Tortures of a guilty Conscience? What Shame and Confu<g ref="char:EOLhyphen"/>sion, what Frights and Anguishes, and what Terrors and Fears within his Breast, whilst he is awake? and in his Dreams he is disturb'd with the like Perturbations. Such is the Custom of an evil Conscience, that the Man that has it even trem<g ref="char:EOLhyphen"/>bles at the fall of a Leaf from a Tree. His own Shadow is a Terror to him, any unusual Noise
+<pb n="20" facs="tcp:105986:12"/>terrifies him, and every Man that cometh to<g ref="char:EOLhyphen"/>wards him he suspects as coming against him. Like <hi>Etna</hi> he has in his very Bowels the Fire that consumes him. The Conscience of a wicked Man (saith <hi>Justin Martyr</hi>) is unto him instead of an Accuser, a Witness, a Judg, and an Execu<g ref="char:EOLhyphen"/>tioner. It will be his Witness to accuse him, his Judg to condemn him, and his Executioner to torture him. And is not that a dreadful Punish<g ref="char:EOLhyphen"/>ment, when a Man shall become his own Ac<g ref="char:EOLhyphen"/>cuser, Judg, and Executioner? Holy <hi>Job</hi> in his 15th Chap. has given a lively Description of the miserable State of such a Man. <hi>The wicked Man travelleth with Pain all his Days, and the Number of Years is hidden to the Oppressor. A dreadful Sound is in his Ears, in Prosperity the Destroyer shall come up<g ref="char:EOLhyphen"/>on him. He believes not, he shall return out of Dark<g ref="char:EOLhyphen"/>ness, and he is waited for of the Sword. He wandreth abroad for Bread, saying, Where is it? He knows that the Day of Darkness is at hand. Trouble and An<g ref="char:EOLhyphen"/>guish shall make him afraid, they shall prevail against him as a King ready to Battel.</hi> A guilty Conscience is still imagining terrible things to be coming up<g ref="char:EOLhyphen"/>on it self. It knows what it deserves, and there<g ref="char:EOLhyphen"/>fore is holden in continual fear, and always tor<g ref="char:EOLhyphen"/>mented
+<pb n="21" facs="tcp:105986:12"/>within it self. 'Tis against a Man whilst he lives, and against him when he comes to die.</p>
+               <p n="3">3. Another Inducement to keep a Consci<g ref="char:EOLhyphen"/>ence void of Offence towards God and Man, is, we must all of us one day bid adieu to the World, and then it will be found that the best Pillow to lay a dying Head on, will be a good Conscience. When our Breath is just going from us, and our Souls ready to take their Flight from our trembling Lips; when Death is summoning us to give up our Accounts to the great Auditor of the World, then all the Pomp and Glories of the Earth will be but weak Cor<g ref="char:EOLhyphen"/>dials, and afford but small Comfort to him who dies with an accusing Conscience staring him in the Face. If we would put our selves into a good Posture of dying, we must take care to observe those Commands of St. <hi>Paul;</hi> That our <hi>Hearts be sprinkled from an evil Consci<g ref="char:EOLhyphen"/>ence,</hi> Heb. 10.22. To <hi>hold Faith and a good Conscience,</hi> 1 Tim. 1.19. <hi>To live in all good Con<g ref="char:EOLhyphen"/>science,</hi> and to <hi>keep a Conscience void of Offence to<g ref="char:EOLhyphen"/>wards God and Man.</hi> If we expect to die in Peace, and go off the Stage of the World with Joy and Comfort, we must have nothing to do with
+<pb n="22" facs="tcp:105986:13"/>any thing that our Conscience either condemns us in, or for. The more spotless and blameless our Consciences are, the more prepared we are to look Death in the Face. For a Man to talk of Death, and make Preparation for it, and yet not to discharge his Conscience of all the Remains of its past Guilt, is the greatest Folly and Pre<g ref="char:EOLhyphen"/>sumption in the World. They and they only, who discharge a good Conscience while they live, are those who will be found prepar'd to die.</p>
+               <p n="4">4. Another Inducement for the keeping a Conscience void of Offence towards God and Man, shall be taken from the Consideration of the general Resurrection, and the last Judgment. There will be a Day when all that are in their Graves shall come forth and appear before an impartial Judg, to receive their Doom. The Court shall be called, and the Books opened, not only of guilty Consciences, but also the Book of Life, wherein God himself has writ<g ref="char:EOLhyphen"/>ten with his own Finger all our Thoughts, Words, and Actions. The Dead, small and great, shall be judged out of those things which are written in the Books, according to their Works; and <hi>whosoever is not found writ<g ref="char:EOLhyphen"/>ten
+<pb n="23" facs="tcp:105986:13"/>in the Book of Life, shall be cast into the Lake of Fire,</hi> Rev. 20. Which way will the Man who has a condemning Conscience at that Day look, when he stands forth and makes his Ap<g ref="char:EOLhyphen"/>pearance before the great Tribunal at the <hi>general Assize</hi> holden for the whole World? If he looks upwards, there sits his Judg ready to pass an un<g ref="char:EOLhyphen"/>repealable Sentence upon him. If he casts his Eyes downwards, there stands his Accuser beneath him; his Conscience also at the same time from within crying out and witnessing against him. It will be in vain then to plead not guilty; for his own Iniquities shall convince him to the Face. O that Men were wise to consider this, and that they would live in the Fear of that Day, when the Trumpet shall sound the Call, <hi>Arise ye Dead and come to Judgment!</hi> What dreadful Impressions should the Proceedings at that day make upon our Lives, to do the thing that is lawful and right? A serious Reflection upon an Eternity of Mise<g ref="char:EOLhyphen"/>ry, accompanied with all the Horrours and Pangs that that Day writes upon the Forehead of an evil Conscience, if duly weighed and consider<g ref="char:EOLhyphen"/>ed, would prove a powerful Motive to perswade us to the Discharge of a good Conscience. If
+<pb n="24" facs="tcp:105986:14"/>the Man who has destroyed the Widow and the Fatherless by Injustice and Oppression, and is become fat with Frauds and Wrongs, would but think seriously on the general Resurrection, and the last Judgment, he would be now of the same Mind as he will be when he shall see the Heavens pass away with a Noise, and the Ele<g ref="char:EOLhyphen"/>ments melt with fervent Heat; the Earth al<g ref="char:EOLhyphen"/>so, and the Works that are therein be burnt up. The Ways of Injustice, Oppression, and Extortion, how gainful and pleasant soever they appear here, do not deserve to be bought with the dear Purchase of endless Misery hereafter; for whoever buys them so, will find that at the great Day of Account he has a very hard and sad Bargain. There is nothing cover'd that shall not then be revealed, nor hid that shall not then be made known. What an Obligation do we lie under to make a diligent Inspection into our Consciences, to be nice and curious in examin<g ref="char:EOLhyphen"/>ing our Lives and Conversations, to set that right which is amiss, and to hasten out of an e<g ref="char:EOLhyphen"/>vil Frame into one that is good and gracious? This was St. <hi>Paul</hi>'s great Care and Exercise. The Belief and Hope of a general Resurrection, and
+<pb n="25" facs="tcp:105986:14"/>the Judgment that is to follow upon it, did strong<g ref="char:EOLhyphen"/>ly oblige and bind that Apostle's Conscience to Vertue and Goodness, to Purity and Holiness, to Honesty and Uprightness, insomuch that he kept always a Conscience void of Offence to<g ref="char:EOLhyphen"/>wards God and towards Man.</p>
+               <p n="5">5. Another Inducement for the keeping such a Conscience, is; The very Conscience, were there nothing else, of doing well, and being imployed in so blessed an Exercise, is it self a brave Reward. Was there nothing to be ex<g ref="char:EOLhyphen"/>pected beyond the Grave: Was there no Life after this: Was the Soul not to survive the Body: And were the Resurrection, and a Judgment to come, mere Fables, yet the Ease and Comfort, the Joy and Peace, the Delight and Pleasure, and that inward Contentment, which a universal and exact Conscientiousness begets in vertuous Men, will make them abundant Recompence for all that upright Conversation it puts them upon. If a Man would consult his own Happiness, and be bles<g ref="char:EOLhyphen"/>sed with a quiet and comfortable Life, let it be his Care to tie up himself to an exact Conscien<g ref="char:EOLhyphen"/>tiousness, which will contribute very much to his convenient living in this World.</p>
+               <pb n="26" facs="tcp:105986:15"/>
+               <p> And now discern between the Righteous and the Wicked. What an excellent Temper of Spirit ariseth from the Minds of those that have kept a Conscience void of Offence towards God and Man? They can appeal to God with Con<g ref="char:EOLhyphen"/>sidence, and say with good <hi>Hezekiah, Lord, re<g ref="char:EOLhyphen"/>member that I have walked before thee with an up<g ref="char:EOLhyphen"/>right Heart, and have done that which is good in thy Sight,</hi> Isa. 38.3. None shall be able to lay any thing to their Charge; they have God to justify them, and their own Consciences to ac<g ref="char:EOLhyphen"/>quit them, and therefore they live quietly, sleep in Peace, and die with Comfort. On the con<g ref="char:EOLhyphen"/>trary, how full of Fears are the Minds of those that are troubled with an evil Conscience? They walk with perplexing Thoughts, their Repose in the Night is uneasy, they are possest with the frightful Appearances of Ghosts, and pursued by the same. Ponder on these things, I beseech you; a good Conscience is necessary to Hap<g ref="char:EOLhyphen"/>piness, it will prepare us for it, and bring us un<g ref="char:EOLhyphen"/>to it. The more exact we are in our Keligion towards God, and in our Conversation among Men, the more we are prepared for Death and Judgment. This was that which St. <hi>Paul</hi> aimed
+<pb n="27" facs="tcp:105986:15"/>at, to live in all Purity before God, and in Righteousness among Men; and that Work and Imployment of his was constant, <hi>always:</hi> A Vein and a Tincture of these ran through all he did; his civil as well as religious Actions were influenced by them, admitting of not the least Taint of Defilement at any time whatsoever. 'Tis usual with Men, when they are cast upon a Bed of Sickness, and the Visions of Death and the Grave are before them, then to make Consci<g ref="char:EOLhyphen"/>ence of their Ways, to dedicate themselves to God, and to be open and fair in their Dealings with Men; the Apprehension of Death puts them upon Devotion, Religion towards God, as well as Integrity towards Men. When they see they must die, and appear before a righteous Tribunal, to have their everlasting State and Condition determined, then they are for doing nothing but what Conscience shall approve of, and what that shall witness. Now St. <hi>Paul</hi> acted more wisely; in all things and at all times, in Health as well as in Sickness, and in the time of Life as well as in the Hour of Death, he laboured to have a Conscience void of Offence towards God and towards Man. That Apostle was not
+<pb n="28" facs="tcp:105986:16"/>conscientious in his Dealings by Fits and Starts, but lived always in the same Frame, and was continu<g ref="char:EOLhyphen"/>ally in the same Posture: One Part of his Life did not clash with the other. His Conversation was in Heaven every Day, and kept a holy Intercourse with God from time to time. He that would live and die in all good Conscience, must be regulated by it in the Shop as well as in the Church; be as just at the <hi>Bar</hi> as at the <hi>Altar;</hi> and have as great a Veneration for the <hi>Ten Commandments</hi> as his Creed. That you may be serious in that Exercise, I shall</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Lastly,</hi> Lay down some Rules for your Help and Direction therein. And,</head>
+               <p n="1">1. To the happy Discharge of your Con<g ref="char:EOLhyphen"/>sciences towards God and Man, ye must endea<g ref="char:EOLhyphen"/>vour for Holiness of Life, and Purity of Heart. <hi>Be diligent, that ye may be found of him in Peace, without spot, and blameless;</hi> 2 Pet. 3.14. The more spotless and blameless we are in our Ways, and the more we breathe after a Principle of Ho<g ref="char:EOLhyphen"/>liness and Purity, the more our Industry and Study will be to keep a Conscience void of Of<g ref="char:EOLhyphen"/>fence. An unholy and impure Soul will not walk
+<pb n="29" facs="tcp:105986:16"/>with God, but lives and allows it self in Ways and Haunts of sinning, indulging this and the other unconscionable Action. And therefore St. <hi>Paul</hi> prays in behalf of the <hi>Thessalonians, And the Lord make you to abound and increase in Love one towards another, and towards all Men, even as we do towards you, to the end he may establish your Hearts unblameable in Holiness before God, even our Father, at the coming of the Lord Jesus Christ, with all his Saints,</hi> 1 Thess. 3.12, 13. Our Hearts and Affections must be pure and holy within, as well as our Lives and Con<g ref="char:EOLhyphen"/>versations without, if we would be owners of a good Conscience.</p>
+               <p n="2">2. If we would keep a Conscience void of Of<g ref="char:EOLhyphen"/>fence towards God and Man, we must have a deep Sense of God's Omnipresence and Omnisci<g ref="char:EOLhyphen"/>ence, and set the Lord always before us. I know nothing that would conduce more to the infusing a Spirit of exact Conscientiousness into us, than the Consideration of those two Attributes. Who would dare to take a false Oath, smite his Neighbour secretly, steal his Goods, or do an ill thing, if he consider'd that every Creature is manifest in his sight, and that God has his Eye continually upon him? <hi>All things are naked and open
+<pb n="30" facs="tcp:105986:17"/>unto the Eyes of him with whom we have to do,</hi> Heb. 4.13. <hi>Can any hide himself in secret places that I shall not see him? saith the Lord,</hi> Jer. 23.24. <hi>Do not I fill Heaven and Earth?</hi> The Darkness and the Light to him are both alike. There is no hiding nor keeping a wicked thing from the Lord. He that lives under the consideration of God's Omnipresence and Omniscience, will exercise him<g ref="char:EOLhyphen"/>self to have always a Conscience void of Offence towards God and towards Man. And the rather, because,</p>
+               <p n="3">3. He who overlooks him in all he does in this Life, will be his Judg in the next. And is not this a strong Motive to keep a Conscience void of Offence? We had need look to our ways, live blamelesly, and press after a universal Con<g ref="char:EOLhyphen"/>scientiousness, that have to deal with a Judg who is to conclude our everlasting State, whether it shall be for Happiness or Misery. O of what great Concern is this, when we are to be try'd for Eternity, and appear before a Judg who is then to pass an eternal Sentence upon us! O the Bene<g ref="char:EOLhyphen"/>fit then of a good Conscience! Without that no Man shall be able to stand in Judgment. They shall quake and tremble, and cry out to the
+<pb n="31" facs="tcp:105986:17"/>Mountains, <hi>O fall upon us, and to the Hills, O co<g ref="char:EOLhyphen"/>ver us from the Presence of him that sits upon the Throne.</hi> But this shall be in vain, for the great Day of the Almighty's Wrath is come, and they as guil<g ref="char:EOLhyphen"/>ty must feel the dreadful Effects of it.</p>
+               <p>Lastly, To keep a Conscience void of Offence towards God and Man, it will be highly requisite frequently to meditate upon the Uncertainty of your Lives, and the shortness of them. In the midst of Life we are in Death. <hi>Man is like to Va<g ref="char:EOLhyphen"/>nity, his Days are as a Shadow that passeth away, a Va<g ref="char:EOLhyphen"/>pour that appears for a little time, and is gone.</hi> Now if our Days be few, and they uncertain, how should that Consideration put us forward with all our might, to live in all good Conscience? If Death surpriseth us in a guilty Conscience, it leaves us under an Impossibility of ever wiping it off. And therefore it concerns us, as much as our everlasting Interest amounts to, to use all present Care and Diligence to discharge a good Consci<g ref="char:EOLhyphen"/>ence both towards God and Men. In that bles<g ref="char:EOLhyphen"/>sed Disposition let all of us live, that so we may neither be afraid nor asham'd to die; and <hi>having our Hearts sprinkled from an evil Conscience,</hi> we may depart in Peace, close our Eyes with Joy and Con<g ref="char:EOLhyphen"/>fidence,
+<pb n="32" facs="tcp:105986:18"/>and fall asleep in hopes of a glorious Resurrection at the last Day. Which that we may all do, God grant for the sake of Jesus Christ. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:105986:18"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
